@@ -7,8 +7,8 @@ sites:
     url: https://api.minteo.finance/v1/health
   - name: Board
     url: https://board.minteo.com/api/health
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  #- name: Test Broken Site
+    #url: https://thissitedoesnotexist.koj.co
   #- name: IPv6 test
     #url: forwardemail.net
     #port: 80
