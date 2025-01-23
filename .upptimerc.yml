@@ -6,13 +6,13 @@ skipDeleteIssues: true
 sites:
   - name: API 
     url: https://api.minteo.finance/v1/health
-    logoUrl: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico
+    icon: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico
   - name: Board
     url: https://board.minteo.com/api/health
-    logoUrl: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico
+    icon: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico
   - name: Worker (by API)
-    logoUrl: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico
     url: https://api.minteo.finance/v1/health/worker
+    icon: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico
 
 i18n:
   footer: ''
