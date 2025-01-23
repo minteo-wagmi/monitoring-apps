@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 486,
-    "timeWeek": 369,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "time": 357,
+    "timeDay": 371,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 165,
+    "timeDay": 170,
     "timeWeek": 177,
     "timeMonth": 177,
     "timeYear": 177,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Worker (by API)",
+    "url": "https://api.minteo.finance/v1/health/worker",
+    "icon": "https://icons.duckduckgo.com/ip3/api.minteo.finance.ico",
+    "slug": "worker-by-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 17,
+    "timeDay": 17,
+    "timeWeek": 17,
+    "timeMonth": 17,
+    "timeYear": 17,
     "dailyMinutesDown": {}
   }
 ]
