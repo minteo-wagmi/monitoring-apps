@@ -40,17 +40,19 @@
     "url": "https://api.minteo.finance/v1/health/worker",
     "icon": "https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico",
     "slug": "worker-by-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 29,
     "timeDay": 29,
     "timeWeek": 29,
     "timeMonth": 29,
     "timeYear": 29,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-23": 0
+    }
   }
 ]
