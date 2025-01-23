@@ -16,7 +16,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /monitoring-apps
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: https://example.com/minteo.svg
+  logoUrl: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/minteo-logo-white.png
+  favicon: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico
   name: Minteo Monitoring Apps
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
