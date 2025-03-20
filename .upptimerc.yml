@@ -13,6 +13,7 @@ sites:
     url: https://api.minteo.finance/v1/health/worker
     icon: https://raw.githubusercontent.com/minteo-wagmi/monitoring-apps/master/assets/favicon.ico
 
+
 i18n:
   footer: ''
 
