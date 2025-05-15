@@ -1,7 +1,7 @@
 url: https://board.minteo.com/api/health
-status: down
-code: 403
-responseTime: 295
-lastUpdated: 2025-05-15T08:00:59.224Z
+status: up
+code: 200
+responseTime: 163
+lastUpdated: 2025-05-15T08:11:52.370Z
 startTime: 2025-01-17T03:04:44.660Z
 generator: Upptime <https://github.com/upptime/upptime>
