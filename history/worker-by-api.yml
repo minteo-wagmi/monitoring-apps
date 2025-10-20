@@ -1,7 +1,7 @@
 url: https://api.minteo.finance/v1/health/worker
-status: up
-code: 200
-responseTime: 15
-lastUpdated: 2025-10-20T17:26:18.434Z
+status: down
+code: 500
+responseTime: 4063
+lastUpdated: 2025-10-20T18:26:26.034Z
 startTime: 2025-01-23T00:31:56.886Z
 generator: Upptime <https://github.com/upptime/upptime>
